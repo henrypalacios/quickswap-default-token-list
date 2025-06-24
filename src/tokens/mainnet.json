@@ -71,15 +71,7 @@
     "logoURI": "https://i.imgur.com/lB49ZJ1.png",
     "trending": false
   },
-  {
-    "name": "decentral.games",
-    "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
-    "symbol": "DG",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://polygonscan.com/token/images/decentralgame_32.png?v=5",
-    "trending": false
-  },
+
   {
     "name": "Aavegotchi GHST Token",
     "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
@@ -515,15 +507,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
     "trending": false
   },
-  {
-    "name": "DOSE",
-    "address": "0x81382e9693dE2aFc33F69B70a6C12CA9B3a73F47",
-    "symbol": "DOSE",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/18847/small/dose.PNG?1633590548",
-    "trending": false
-  },
+
   {
     "name": "Aavegotchi FOMO",
     "address": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
@@ -605,15 +589,7 @@
     "logoURI": "https://res.cloudinary.com/metavault/image/upload/v1668603846/brand-assets/brandLogos/MVX-COIN_Simple_jikqce.png",
     "trending": false
   },
-  {
-    "name": "Giddy Token",
-    "address": "0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6",
-    "symbol": "GDDY",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/24960/small/gddy.png?1649573862",
-    "trending": false
-  },
+
   {
     "name": "Wrapped liquid staked Ether 2.0",
     "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
@@ -792,15 +768,7 @@
     "logoURI": "https://s3.coinmarketcap.com/static-gravity/image/bac2ec73cdbb4eaf9920a534498d43b1.png",
     "trending": false
   },
-  {
-    "name": "Crypto Crew Token",
-    "address": "0xEd198DB07571DD3Be19bFCf86A990c2137DD8648",
-    "symbol": "CREW",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/WkMZqNl.jpeg",
-    "trending": false
-  },
+
   {
     "name": "Ethernity CLOUD",
     "address": "0xc6920888988cAcEeA7ACCA0c96f2D65b05eE22Ba",
@@ -858,25 +826,9 @@
     "logoURI": "https://i.imgur.com/egPMCht.png",
     "trending": true
   },
-  {
-    "name": "b0rder1ess",
-    "address": "0xF36f79feb5d97e18C69078d8D13d941CaE447A04",
-    "symbol": "b01",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/9GESEM3.jpeg",
-    "trending": false
-  },
 
-  {
-    "name": "Axion",
-    "address": "0x839F1a22A59eAAf26c85958712aB32F80FEA23d9",
-    "symbol": "AXN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.imgur.com/nVgJJfN.png",
-    "trending": false
-  },
+
+
   {
     "name": "Morpheus.Network",
     "address": "0x3c59798620e5fEC0Ae6dF1A19c6454094572Ab92",
@@ -887,15 +839,7 @@
     "trending": false
   },
 
-  {
-    "name": "DerbyStarsRUN",
-    "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
-    "symbol": "DSRUN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://resource.derbystars.com/tokens/icon/token_run_32_C.png",
-    "trending": false
-  },
+
   {
     "name": "GOON",
     "address": "0x433cDE5a82b5e0658dA3543b47A375dffd126Eb6",
