@@ -949,7 +949,15 @@
     "logoURI": "https://i.imgur.com/MuXBgrA.png",
     "trending": false
   },
-
+  {
+    "name": "Citizen Wallet",
+    "address": "0x0D9B0790E97e3426C161580dF4Ee853E4A7C4607",
+    "symbol": "CTZN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/bi74zCb.png",
+    "trending": false
+  },
   {
     "name": "Melodex",
     "address": "0x5FDAF637Aed59B2e6d384d9e84D8ac5cF03c6697",
