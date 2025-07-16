@@ -672,7 +672,7 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://i.imgur.com/JnwWka0.png",
-    "trending": false
+    "trending": true
   },
   {
     "name": "StaFi rMATIC",
